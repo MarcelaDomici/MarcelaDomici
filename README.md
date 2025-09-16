@@ -129,6 +129,8 @@ Me chamo Marcela de Oliveira Domiciano, tenho 20 anos e sou de Cruzeiro - SP. At
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
